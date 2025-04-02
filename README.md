@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="IMG_0555.png" width="180">
+      <img src="IMG_0555.png" width="280">
     </td>
     <td>
       <p>
@@ -33,3 +33,4 @@ Aspiring to pursue a **PhD in physics**, with a focus on integrating **computati
 
 ### 💡 Let's Collaborate!  
 I’m open to collaborations in **biophysics**, **machine learning**, and **quantum physics applications**. Feel free to reach out!  
+
