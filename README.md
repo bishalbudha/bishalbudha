@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Bishal Budha  
 
-![Profile Picture](IMG_0555.png)  
+<p align="right">
+  <img src="IMG_0555.png" width="200">
+</p>
 
 ### 🚀 About Me  
 I'm a passionate physics graduate from **Trichandra Multiple Campus, Tribhuvan University**, Kathmandu, Nepal. Currently, I'm engaged in research within the fields of **biophysics** and **medical physics**, aiming to explore innovative applications of **quantum physics** and **machine learning** in healthcare.  
