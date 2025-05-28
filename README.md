@@ -27,7 +27,7 @@ Aspiring to pursue a **PhD in physics**, with a focus on integrating **computati
 ### 📫 Connect with Me  
 📘 **ResearchGate**: [Bishal Budha](https://www.researchgate.net/profile/Bishal-Budha-2?ev=hdr_xprf)  
 🐦 **Twitter/X**: [@bbc_463](https://x.com/bbc_463)  
-🔗 **LinkedIn**: [Bishal Budha](https://np.linkedin.com/in/bishal-budha-chhetri-35672b19a)  
+🔗 **LinkedIn**: [Bishal Budha](https://np.linkedin.com/in/bishalbudha/)  
 🟢 **ORCID**: [0009-0002-9467-565X](https://orcid.org/0009-0002-9467-565X)  
 📸 **Instagram**: [@bbc_463](https://www.instagram.com/bbc_463/)  
 
